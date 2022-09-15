@@ -1,33 +1,17 @@
-li{
-    list-style: none;
+
+img{
+    width: 100%;
+    height: auto;
+    display: block;
 }
-.coffe{
-    color: brown;
+.container{
+    width: 470px;
 }
-.coffe a {
-    color: greenyellow;
-}
-.coffe a:hover{
- color: brown;
-}
-.title{
-    background-color: aquamarine;
-}
-.title figure{
-    border: 10px solid red  ;
-}
-.qwerty ul{
+.menu{
     display: flex;
-    justify-content: center;
-
+    justify-content: center;  
 }
-.qwerty li{
+.menu li{
+    list-style: none;
     margin: 0 20px;
-}
-li:hover{
-    color: red;
-
-}
-a{
-    text-decoration: none;
 }
